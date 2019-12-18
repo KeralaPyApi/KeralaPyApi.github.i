@@ -6,9 +6,9 @@ KeralaPyApi is an open source python tg api based on ethenoir's pytelegrambotapi
 
 .. code-block:: python
 
-`pip install KeralaPyApi `
+``pip install KeralaPyApi ``
 
 To upgrade it 
 
-`pip install KeralaPyApi --upgrade`
+``pip install KeralaPyApi --upgrade``
 
